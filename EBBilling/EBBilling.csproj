@@ -116,6 +116,8 @@
     <Content Include="images\car 4.jpg" />
     <Content Include="images\car 5.jpg" />
     <Content Include="images\car 6.jpg" />
+    <Content Include="Login.aspx" />
+    <Content Include="LoginSuccess.aspx" />
     <Content Include="scripts\jquery.min.js" />
     <Content Include="StateMangementAdd.aspx" />
     <Content Include="StateMangementDisplay.aspx" />
@@ -147,6 +149,20 @@
     </Compile>
     <Compile Include="HomePage.aspx.designer.cs">
       <DependentUpon>HomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSuccess.aspx.cs">
+      <DependentUpon>LoginSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginSuccess.aspx.designer.cs">
+      <DependentUpon>LoginSuccess.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StateMangementAdd.aspx.cs">

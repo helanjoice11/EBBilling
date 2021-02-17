@@ -43,3 +43,11 @@ textarea:focus {
         top: 0px;
     }
 }
+
+.redColor {
+    color: red;
+}
+
+.redbackground {
+    background-color: red;
+}
