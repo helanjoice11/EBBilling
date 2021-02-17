@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/car 1.jpg</ImageUrl>
+    <AlternateText>Car Image 1</AlternateText>
+    <NavigateUrl>~/EBBillGenerator.aspx</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/car 2.jpg</ImageUrl>
+    <AlternateText></AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/car 3.png</ImageUrl>
+    <AlternateText></AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/car 4.jpg</ImageUrl>
+    <AlternateText></AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/car 5.jpg</ImageUrl>
+    <AlternateText></AlternateText>
+    <NavigateUrl></NavigateUrl>
+  </Ad>
+</Advertisements>
